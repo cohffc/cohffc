@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20GAME%20&height=300&fontSize=100&textBg=true,https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
-<h1 align="center">Hi 👋, I'm 게임개발자 philo</h1>
+<h1 align="center">Hi 👋, I'm 게임개발자</h1>
 <h3 align="center">game developer. / 게임개발자</h3>
 
 <h3 align="left">Languages and Tools:</h3>
